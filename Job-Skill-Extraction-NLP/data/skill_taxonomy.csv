@@ -1,0 +1,49 @@
+skill,category,aliases
+Python,Programming,python3;python 3;py
+Java,Programming,java se
+JavaScript,Programming,js;javascript es6
+HTML,Programming,html5
+CSS,Programming,css3
+React,Programming,react.js;reactjs
+Node,Programming,node.js;nodejs
+Django,Programming,django framework
+Flask,Programming,flask framework
+SQL,Database,structured query language
+MySQL,Database,my sql
+PostgreSQL,Database,postgres;postgresql
+Oracle,Database,oracle db;oracle database
+Database,Database,db;databases
+Database Administration,Database,dba
+Excel,Data Analytics,ms excel;microsoft excel
+Power BI,Data Analytics,powerbi;power-bi
+Power Query,Data Analytics,powerquery
+Tableau,Data Analytics,tableau software
+DAX,Data Analytics,data analysis expressions
+Data Analysis,Data Analytics,data analytics
+Data Visualization,Data Analytics,dataviz
+Statistics,Data Analytics,statistical analysis
+A/B Testing,Data Analytics,ab testing;split testing
+Product Analytics,Data Analytics,product analysis
+Marketing Analytics,Data Analytics,marketing analysis
+HR Analytics,Data Analytics,hr analysis
+Machine Learning,Machine Learning,ml
+Scikit-learn,Machine Learning,scikit learn;sklearn
+TensorFlow,Machine Learning,tf
+Pandas,Machine Learning,pd
+Spark,Machine Learning,apache spark;pyspark
+AWS,Cloud,amazon web services
+Azure,Cloud,microsoft azure
+Cloud Computing,Cloud,cloud
+Docker,DevOps,docker container;docker containers
+Kubernetes,DevOps,k8s
+Jenkins,DevOps,jenkins ci
+Git,DevOps,github;version control
+Linux,DevOps,unix
+ETL,Data Engineering,extract transform load
+REST API,Software Engineering,restful api;rest apis
+Selenium,Software Engineering,selenium webdriver
+Automation Testing,Software Engineering,test automation
+Business Analysis,Business,business analytics
+Requirements Gathering,Business,requirement gathering
+Financial Modeling,Business,financial modelling
+MongoDB,Database,mongo;mongodb

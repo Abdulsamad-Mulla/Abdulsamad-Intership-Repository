@@ -1,0 +1,6 @@
+Method,Precision,Recall,F1
+Dictionary,0.938,0.985,0.961
+Regex,1.0,0.385,0.556
+TF-IDF,0.926,0.56,0.698
+NER,0.943,0.75,0.836
+Transformer,0.0,0.0,0.0

@@ -1,0 +1,41 @@
+job_id,true_skills
+JOB06253,AWS;Docker;Kubernetes;Jenkins;Linux
+JOB04685,HTML;CSS;JavaScript;React;Node.js
+JOB01732,AWS;Docker;Kubernetes;Jenkins;Linux
+JOB04743,HTML;CSS;JavaScript;React;Git
+JOB04522,SQL;MySQL;PostgreSQL;Database;ETL
+JOB06341,Python;SQL;Excel;Power BI;Tableau
+JOB00577,Excel;SQL;Python;Marketing Analytics;Power BI
+JOB05203,Python;SQL;Excel;Power BI;Tableau
+JOB06364,SQL;MySQL;PostgreSQL;Oracle;Database Administration
+JOB00440,Python;SQL;Spark;ETL;AWS
+JOB02751,Python;SQL;Excel;Power BI;Tableau
+JOB07488,Excel;SQL;Python;Marketing Analytics;Power BI
+JOB05273,AWS;Docker;Kubernetes;Jenkins;Linux
+JOB05654,Power BI;DAX;Power Query;SQL;Excel
+JOB04000,SQL;Excel;Power BI;Business Analysis;Requirements Gathering
+JOB06034,SQL;Excel;Power BI;Business Analysis;Requirements Gathering
+JOB00583,Selenium;Python;Java;SQL;Automation Testing
+JOB09931,Python;SQL;Spark;ETL;AWS
+JOB07052,Power BI;DAX;Power Query;SQL;Excel
+JOB08159,SQL;MySQL;PostgreSQL;Oracle;Database Administration
+JOB09897,SQL;Python;Excel;A/B Testing;Product Analytics
+JOB02250,Python;SQL;Excel;Power BI;Tableau
+JOB04641,SQL;Excel;Power BI;Business Analysis;Requirements Gathering
+JOB09486,AWS;Azure;Linux;Docker;Cloud Computing
+JOB04948,AWS;Azure;Linux;Docker;Cloud Computing
+JOB09921,Python;SQL;Pandas;Machine Learning;Statistics
+JOB01964,SQL;Excel;Power BI;Business Analysis;Requirements Gathering
+JOB08244,Python;Java;Git;SQL;REST API
+JOB06591,SQL;MySQL;PostgreSQL;Oracle;Database Administration
+JOB08848,Selenium;Python;Java;SQL;Automation Testing
+JOB00322,HTML;CSS;JavaScript;React;Git
+JOB02679,Excel;SQL;Power BI;Financial Modeling;Statistics
+JOB04626,Power BI;DAX;Power Query;SQL;Excel
+JOB04950,SQL;Power BI;Excel;DAX;Data Visualization
+JOB08329,Python;Machine Learning;TensorFlow;Scikit-learn;Docker
+JOB03338,Python;SQL;Pandas;Machine Learning;Statistics
+JOB05590,SQL;Python;Excel;A/B Testing;Product Analytics
+JOB00252,Excel;SQL;Power BI;Financial Modeling;Statistics
+JOB03974,SQL;MySQL;PostgreSQL;Database;ETL
+JOB06631,Python;SQL;Excel;Power BI;Tableau
