@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+nltk
+spacy
+matplotlib
+seaborn
+mysql-connector-python
+bcrypt
+sentence-transformers
+transformers
+torch
+fastapi
+uvicorn
